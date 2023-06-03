@@ -7,7 +7,7 @@ from Module.Word2Vec.Word2Vec import W2V
 from Module.Word2Vec.Word2VecTX import W2VTX
 # from Module.Word2Vec.train import W2V
 from Module.LM.LMEmbedding import LMEmbedding
-from Utils.Logger import init_logger
+from utils.Logger import init_logger
 
 
 class PreRank(object):
